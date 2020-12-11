@@ -1,2 +1,2 @@
-# Tableau_Suicide_Rates
+# Suicide Rates Overview
 Tableau storyboard depicting the suicide rates in different countries
